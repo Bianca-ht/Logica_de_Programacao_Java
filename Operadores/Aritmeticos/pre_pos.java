@@ -51,9 +51,9 @@ import java.util.Scanner;
         
             /*
                 run:
-                5
-                5
                 6
+                6
+                7
             */
          
         //decremento --a pré-fixado 
