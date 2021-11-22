@@ -8,6 +8,8 @@ operadores matemáticos básicos.
 Precedência com o uso de operadores, logo após a execução das operações aritméticas, devem ser realizadas as operações
 relacionais e, em seguida, as operações lógicas. 
 
+---------->EXEMPLO:
+
 */
 
 /**
