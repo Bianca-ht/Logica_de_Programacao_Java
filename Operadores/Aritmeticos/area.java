@@ -1,10 +1,11 @@
 /*
  Operadores aritméticos são utilizados para calculos matematicos.
 
-Multiplicação *  |  a*b
-Divisão /        |  a/b
-Adição +         |  a+b
-Subtração -      |  a-b
+Multiplicação *     |  a*b
+Divisão /           |  a/b
+Adição +            |  a+b
+Subtração -         |  a-b
+Resto da Divisão %  | a%c    | Mod
 
 EXEMPLO:
 --------> Calcule o valor da area:
