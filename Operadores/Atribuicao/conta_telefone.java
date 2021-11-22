@@ -51,7 +51,7 @@ e a ação de atribuir o valor a variável.
             }
         System.out.printf("Valor da conta = R$ %.2f%n", conta);
         sc.close();
-            }
+        }
     }
 
 
