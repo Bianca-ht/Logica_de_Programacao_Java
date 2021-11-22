@@ -1,7 +1,20 @@
+/*
+Algumas funções matemáticas em Java:
+
+Funções matemáticas são programas especiais existentes nas bibliotecas das linguagens 
+de programação e executam cálculos matemáticos mais complexos não suportados pelos 
+operadores matemáticos básicos.
+
+Precedência com o uso de operadores, logo após a execução das operações aritméticas, devem ser realizadas as operações
+relacionais e, em seguida, as operações lógicas. 
+
+*/
+
 /**
- * Algumas funções matemáticas em Java
+ * 
  * @author Bianca
  */
+
     public class Main {
     public static void main(String[] args) {
         
