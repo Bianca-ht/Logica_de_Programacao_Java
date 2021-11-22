@@ -7,6 +7,12 @@ Adição +            |  a+b
 Subtração -         |  a-b
 Resto da Divisão %  | a%c    | Mod
 
+***O mod a%b retorna o resto da divisão inteira.
+EXEMPLO:
+--------> 9%2
+9/2 resultado 4 e o resto 1 = mod.
+
+
 EXEMPLO:
 --------> Calcule o valor da area:
  */
