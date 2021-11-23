@@ -9,11 +9,11 @@
    - System.out: representa a saída padrão, permitindo exibir dados no 
                  console quando executamos uma aplicação.
      
-   - println() : gera uma string de texto, cria uma nova linha abaixo da atual.
+         - println() : gera uma string de texto, cria uma nova linha abaixo da atual.
      
-   - print() gera uma string de texto.
+         - print() gera uma string de texto.
      
-   - printf(): mostra os dados na saída formatados.
+         - printf(): mostra os dados na saída formatados.
      
                       - Especificadores: 
 
