@@ -1,7 +1,7 @@
 # Logica_de_Programacao_Java
 ### Sumário
 
-- PDF para download do Livro Logica de Programação e Estrutura de Dados com aplicação em Java
+- Métodos
 - Estrutura Sequencial
     - Pseudocódigo    
 - Operadores 
@@ -14,4 +14,4 @@
  - Biblioteca Math 
     - Funções Matemáticas 
 
-
+- PDF para download do Livro Logica de Programação e Estrutura de Dados com aplicação em Java
