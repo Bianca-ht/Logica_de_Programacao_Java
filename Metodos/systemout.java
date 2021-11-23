@@ -17,25 +17,25 @@
      
                       - Especificadores: 
 
-                              - %s    String de caracteres
-                              - %d	Número inteiro decimal 
-                              - %u	Número inteiro decimal sem sinal
-                              - %o	Número inteiro octal sem sinal
-                              - %x, %X	Número inteiro hexadecimal sem sinal, minúsculo ou maiúsculo
-                              - %f	Float
-                              - %2f	Double
-                              - %e, %E	Número real, em notação científica, minúsculo ou maiúsculo
-                              - %b	Boolean
-                              - %c	Caractere (char)
+                               %s    String de caracteres
+                               %d	Número inteiro decimal 
+                               %u	Número inteiro decimal sem sinal
+                               %o	Número inteiro octal sem sinal
+                               %x, %X	Número inteiro hexadecimal sem sinal, minúsculo ou maiúsculo
+                               %f	Float
+                               %2f	Double
+                               %e, %E	Número real, em notação científica, minúsculo ou maiúsculo
+                               %b	Boolean
+                               %c	Caractere (char)
 
                       - Caracteres:
 
-                              - \t	Tabulação
-                              - \b	Backspace
-                              - \n	Nova Linha
-                              - \r	Retorno de carro
-                              - \’	Aspa simples
-                              - \”	Aspa dupla
-                              - \\	Barra invertida        
+                               \t	Tabulação
+                               \b	Backspace
+                               \n	Nova Linha
+                               \r	Retorno de carro
+                               \’	Aspa simples
+                               \”	Aspa dupla
+                               \\	Barra invertida        
 
 */
