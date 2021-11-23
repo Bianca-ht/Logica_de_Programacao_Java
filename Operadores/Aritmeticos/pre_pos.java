@@ -1,5 +1,5 @@
 /*
-Operadores aritméticos são utilizados para calculos matematicos.
+Operadores aritméticos são utilizados para cálculos matemáticos.
     Incremento ++  
     Decremento --   
 
