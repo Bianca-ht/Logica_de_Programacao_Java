@@ -8,6 +8,6 @@
     - Aritméticos
         - Funções Matemáticas Básicas
         - Funções Matemáticas Incremento | Decremento
-        - Funções Matemáticas Math.pow | Math.sqrt | Math.abs
+        - Funções Matemáticas Math
     - Atribuição
         - Atribuição cumulativa
