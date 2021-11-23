@@ -1,5 +1,6 @@
-# Logica_de_Programacao_Java
-### Sumário
+# Anotações Java
+
+## Sumário
 
 - Métodos
 - Estrutura Sequencial
@@ -8,10 +9,8 @@
     - Aritméticos
         - Funções Matemáticas Básicas
         - Funções Matemáticas Incremento | Decremento
-        
     - Atribuição
         - Atribuição cumulativa
  - Biblioteca Math 
     - Funções Matemáticas 
-
 - PDF para download do Livro Logica de Programação e Estrutura de Dados com aplicação em Java
