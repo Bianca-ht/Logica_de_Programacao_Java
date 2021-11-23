@@ -10,6 +10,9 @@ Operadores aritméticos são utilizados para cálculos matemáticos.
     ****Pós fixado: Quando declarado depois, ocorre o contrário: lê-se
     o valor da variável para processamento e só então o valor da variável
     é incrementado.
+    
+    Precedência com o uso de operadores, logo após a execução das operações aritméticas, devem ser 
+    realizadas as operações relacionais e, em seguida, as operações lógicas. 
 
             --------> EXEMPLO:
 */
