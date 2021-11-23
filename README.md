@@ -8,6 +8,8 @@
     - Aritméticos
         - Funções Matemáticas Básicas
         - Funções Matemáticas Incremento | Decremento
-        - Funções Matemáticas Math
+        
     - Atribuição
         - Atribuição cumulativa
+ - Biblioteca Math 
+    - Funções Matemáticas 
