@@ -2,6 +2,8 @@
  *
  * @author Bianca
  */
+
+/*
 -------> Métodos:
 
    - System.out: representa a saída padrão, permitindo exibir dados no 
@@ -36,3 +38,4 @@
                               - \”	Aspa dupla
                               - \\	Barra invertida        
 
+*/
